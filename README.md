@@ -1,11 +1,4 @@
 # Project Status Report
-## Week 1 - January 6, 2026
-- Project inititated
-- Team members assigned
-- Initital budget approved: $50,000
-
-***
-
 ## Week 2 - January 12, 2026
 - Vendor contracts signed
 - Development phase started
