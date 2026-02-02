@@ -20,5 +20,5 @@
 ***
 
 ## Week 4 - January 24, 2026
-- Milestone failed, lost federal funding 
-- Budget remaining: $0 
+- Milestone achieved 
+- Budget remaining: $32,450 
